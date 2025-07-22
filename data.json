@@ -3,55 +3,116 @@
     "id" : 1,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/1.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed posando frente a un Porsche blanco con la puerta del conductor abierta. Está vestido con una sudadera negra con la inscripción \"Speed Gang\" en amarillo y rojo, jeans cortos desgastados y zapatillas Yeezy de color beige. La escena transcurre al aire libre en un día soleado, con un césped verde y árboles de fondo, sugiriendo un entorno residencial o suburban. IShowSpeed está de pie sobre un camino de grava, con una mano apoyada en el capó del auto y la otra levantada en un gesto amistoso.",
+    "tags" : ["IShowSpeed", "Porsche", "Speed Gang", "Yeezy", "outdoor"],
+    "categories" : ["coches"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },
 {
     "id" : 2,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/2.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed arrodillado en una plataforma que marca la frontera entre Corea del Norte y Corea del Sur, con las palabras \"NORTH KOREA\" y \"SOUTH KOREA\" pintadas en el suelo, junto a huellas amarillas. Está sin camisa, luciendo una cadena y un reloj, y usa pantalones oscuros y zapatillas negras con detalles rojos. El fondo incluye un paisaje verde con árboles, una valla con el letrero \"DMZ\", y un cartel que indica \"2km\". La escena está iluminada por la luz del día, destacando la zona desmilitarizada (DMZ).",
+    "tags" : ["IShowSpeed", "Korea", "DMZ", "North Korea", "South Korea"],
+    "categories" : ["viajes"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },
 {
     "id" : 3,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/3.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed de pie en un balcón de madera roja, con una sonrisa y sin camisa, luciendo una buena musculatura. Lleva unos pantalones negros con un diseño colorido en la cintura que incluye rojo, amarillo y negro, y zapatillas blancas. En su muñeca izquierda tiene una pulsera multicolor. El fondo incluye un césped verde, una valla de madera y una casa blanca con techo gris, bajo un día soleado con árboles de fondo. Un gorro beige está apoyado en la barandilla a su lado.",
+    "tags" :["IShowSpeed","outdoor","withoutShirt","watch"],
+    "categories" : ["outdoor"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" :"2025-07-21"
 },{
     "id" : 4,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/4.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed posando en un área al aire libre con un suelo de concreto desgastado. Lleva una camiseta amarilla de fútbol de la selección brasileña con el número 9, jeans cortos desgastados, zapatillas coloridas y gafas de sol. Tiene una cadena de oro y un reloj en la muñeca izquierda. El fondo incluye una mesa redonda de madera, una silla roja, una motocicleta y un entorno con edificios y vegetación, bajo luz solar. Hay algunos objetos dispersos como una taza de papel y madera apilada.",
+    "tags" : ["IShowSpeed", "outdoor", "football", "Brazil", "sunglasses"],
+    "categories" : ["outdoor", "viajes"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },
 {
     "id" : 5,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/5.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed de pie junto a un Lamborghini Urus azul brillante estacionado en una calle residencial. Está sin camisa, luciendo una buena musculatura, y lleva shorts de camuflaje con una banda elástica visible con la marca \"E PRO\". Sus pies están calzados con zapatillas Crocs azules. El fondo incluye casas, árboles altos, un poste de luz y otros autos estacionados, bajo un cielo despejado y soleado.",
+    "tags" : ["IShowSpeed", "Lamborghini", "Urus", "outdoor", "muscular","calle","street"],
+    "categories" : ["coches", "outdoor"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },{
     "id" : 6,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/6.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed de pie frente a un Lamborghini negro con la matrícula \"BU11 ABX\", estacionado en una calle urbana. Está sin camisa, mostrando su musculatura, y lleva pantalones deportivos naranja con una banda elástica visible con la marca \"OPSO\". Sus pies están calzados con zapatillas Yeezy de color beige. El fondo incluye edificios en construcción con andamios, árboles verdes y otro auto negro, bajo un día soleado.",
+    "tags" : ["IShowSpeed", "Lamborghini", "outdoor", "muscular","calle","street"],
+    "categories" :["coches","estiloVida","lifeStyle"],
+    "type" :"image",
+    "format":"jpeg",
+    "created_at": "2025-07-19",
+    "updated_at":"2025-07-21"
 },{
     "id" : 7,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/7.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed posando frente a una pared blanca, haciendo el gesto de \"shaka\" con ambas manos. Lleva una camiseta roja con un diseño gráfico que incluye una figura y detalles en blanco, junto con una cadena de oro gruesa. Su cabello está estilizado con rizos voluminosos, y tiene un arete en la oreja izquierda y una pulsera en la muñeca derecha. La expresión facial es exagerada, con ojos muy abiertos y una sonrisa amplia.",
+    "tags": ["IShowSpeed","shaka", "gesture", "redShirt", "goldChain","cadenaOro"],
+    "categories": ["estiloVida", "lifeStyle"],
+    "type": "image",
+    "format": "jpeg",
+    "created_at": "2025-07-19",
+    "updated_at": "2025-07-21"
 },{
     "id" : 8,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/8.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed de pie dentro de un centro comercial, con una chaqueta azul de Nike, pantalones negros y zapatillas Air Jordan azules con detalles rojos. Lleva una gorra roja de béisbol inclinada y una banda elástica de ropa interior visible con la marca \"OPSO\" en rojo y negro. En el suelo, hay una imagen estampada de un personaje de anime con cabello rosa, sentado. El fondo incluye vitrinas y un entorno interior con pisos de mármol verde.",
+    "tags" :["IShowSpeed","calle","muscular","outdoor","nike","anime"],
+    "categories" :["estiloVida","lifeStyle"],
+    "type":"image",
+    "format":"jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },{
     "id" : 9,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/9.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed en un primer plano de su rostro, sonriendo ampliamente con dientes que tienen incrustaciones de joyas rojas y blancas. Tiene el cabello rizado y voluminoso, y lleva un arete grande en la oreja izquierda. El fondo es un baño con paredes claras y un rollo de papel higiénico visible, bajo una iluminación brillante.",
+    "tags" : ["IShowSpeed", "smile", "jewelry", "bathroom", "redWhite", "joyas", "arete", "oreja", "joya", "orejaIzquierda"],
+    "categories" : ["estiloVida", "lifeStyle"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },
-{    "id" : 10,
+{   
+     "id" : 10,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/10.jpeg?raw=true",
     "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "description" : "La imagen muestra a IShowSpeed de pie junto a un Jeep Gladiator blanco estacionado en una calle urbana de noche. Lleva una camiseta y pantalones oscuros a juego con el texto \"the future is here\" y varios parches con estrellas y diseños rojos, junto con zapatillas Crocs rojas. Tiene gafas de sol oscuras y varias pulseras en la muñeca izquierda. El fondo incluye edificios, árboles y farolas iluminadas.",
+    "tags" : ["IShowSpeed", "Jeep Gladiator", "outdoor", "night", "urban", "street", "gladiator", "jeep", "jeepGladiator", "jeepGladiator2025", "jeep2025", "jeep2024", "jeep2023"],
+    "categories" : ["coches", "estiloVida", "lifeStyle"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-21"
 },
 {
     "id" : 11,
