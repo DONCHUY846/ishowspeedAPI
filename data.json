@@ -117,62 +117,123 @@
 {
     "id" : 11,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/11.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed relajandose al aire libre",
+    "description" : "La imagen muestra a iShowSpeed, un conocido creador de contenido, de pie en un área al aire libre con un suelo de madera. Está sin camisa, mostrando un físico bien definido, y lleva unos shorts de camuflaje con detalles en naranja. El entorno incluye muebles blancos, plantas tropicales y una estructura de madera con sombra, sugiriendo que está en un patio o terraza. Hay charcos de agua a sus pies, y su sombra se proyecta claramente en el suelo.",
+    "tags" : ["IShowSpeed", "outdoor", "relaxing", "shirtless", "camouflage", "tropical"],
+    "categories" : ["outdoor", "estiloVida", "lifeStyle"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 12,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/12.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed comiendo pollo frito de KFC en la calle",
+    "description" : "La imagen muestra a iShowSpeed, un popular creador de contenido, comiendo un trozo de pollo frito mientras sostiene un balde de comida rápida KFC. Lleva una camiseta de la selección argentina de fútbol con el número 10. Está rodeado de una multitud que lo graba con sus teléfonos, y hay personas a su alrededor, incluyendo un hombre con una camiseta blanca y otro con una gorra negra. El escenario parece ser una calle urbana con sombra y un ambiente animado.",
+    "tags" : ["IShowSpeed", "KFC", "fried chicken", "street", "crowd", "Argentina", "food", "polloFrito", "comidaRapida", "pollo", "comiendo"],
+    "categories" : ["estiloVida", "lifeStyle", "comidaRapida"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 13,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/13.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed con trofeo de campeón en estadio deportivo",
+    "description" : "La imagen muestra a iShowSpeed, un conocido creador de contenido, sosteniendo un trofeo de campeón con una sonrisa. Lleva una camiseta roja con el logo de \"Fear Star\" y una medalla alrededor del cuello, sugiriendo una victoria en un evento deportivo. El fondo presenta un estadio con asientos rojos y confeti, indicando una celebración. Tiene tatuajes en los brazos y usa una pulsera colorida.",
+    "tags" : ["IShowSpeed", "trophy", "champion", "victory", "red shirt", "medal", "stadium", "confetti"],
+    "categories" : ["estiloVida", "lifeStyle", "deportes"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 14,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/14.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed en la tienda con estilo",
+    "description" : "La imagen muestra a iShowSpeed, un popular creador de contenido, sonriendo y haciendo la señal de paz con la mano derecha. Lleva un sombrero amarillo y una camisa blanca abierta que revela una marca o maquillaje en el pecho que simula una herida o quemadura. Está frente a un refrigerador de una tienda con productos como bebidas y snacks, con carteles de \"$1 Deals visibles.",
+    "tags" : ["IShowSpeed", "store", "peace sign", "yellow hat", "white shirt", "injury makeup", "snacks", "drinks"],
+    "categories" : ["estiloVida", "lifeStyle", "compras"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 15,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/15.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed desata la euforia en el público asiatico",
+    "description" : "En esta imagen vibrante y llena de energía, el popular streamer y creador de contenido IShowSpeed (sin camiseta) es recibido con entusiasmo por una multitud de fans en lo que parece ser un evento público en Asia. Speed, con una gran sonrisa y los brazos extendidos, disfruta del cariño del público mientras la multitud lo rodea, grita, graba con sus teléfonos y extiende manos y objetos para que los firme. La escena está cargada de emoción, adrenalina y caos positivo, capturando perfectamente el impacto global que este influencer ha generado.",
+    "tags" : ["IShowSpeed", "crowd", "fans", "Asia", "event", "excitement", "influencer"],
+    "categories" : ["estiloVida", "lifeStyle", "eventos"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 16,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/16.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed brilla en el Royal Rumble",
+    "description" : "La imagen muestra a iShowSpeed en un ring de lucha libre, con los brazos extendidos y una expresión de entusiasmo. Lleva una camiseta roja con la palabra \"SEWEY\" en blanco, shorts negros con detalles rojos y zapatillas grises. El fondo presenta una multitud y luces brillantes, con el logo ]\"Royal Rumble\" visible, indicando un evento de WWE. Tiene tatuajes en los brazos y usa una pulsera colorida.",
+    "tags":["IShowSpeed","RoyalRumble","WWE","LuchaLibre","SEWEY","YouTube"],
+    "categories" : ["estiloVida", "lifeStyle", "LuchaLibre"],
+    "type" :"image",
+    "format" :"jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
+
 },
 {
     "id" : 17,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/17.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed en el campo de futbol",
+    "description" : "La imagen muestra a iShowSpeed vistiendo una camiseta de fútbol azul y negra con el logo de \"Anchor\" y \"A-League\", junto con patrocinadores como \"Isuzu Ute\". Está al aire libre cerca de un área con césped y árboles, con un cuerpo de agua y colinas al fondo. Tiene tatuajes visibles en los brazos y usa un reloj. Otra persona con una camiseta azul está de fondo, mirando su teléfono.",
+    "tags" : ["IShowSpeed", "football", "A-League", "Anchor", "Isuzu Ute", "outdoor", "tattoos"],
+    "categories" : ["estiloVida", "lifeStyle", "deportes"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 18,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/18.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed con su lamborghini estilo portugal",
+    "description" : "La imagen muestra a iShowSpeed de pie frente a un Lamborghini verde con un diseño que incluye la figura de un jugador de fútbol con la camiseta de Portugal. Lleva una camiseta y shorts a juego con los colores de la bandera portuguesa (rojo y verde) con el número 7. Está en una calle residencial con césped y casas blancas al fondo, y usa zapatillas rojas. Su expresión facial sugiere sorpresa o emoción.",
+    "tags" : ["IShowSpeed", "Lamborghini", "Portugal", "football", "green car", "red shorts", "street", "residential"],
+    "categories" : ["coches", "estiloVida", "lifeStyle"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 19,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/19.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed listo para el juego",
+    "description" : "La imagen muestra a iShowSpeed desde atrás, vistiendo una camiseta roja con el nombre \"SPEED\" y el número 7 en la espalda. Está en un pasillo con paredes rojas decoradas con imágenes y texto, incluyendo \"2021\" y \"ARMED\". Alrededor hay varias personas, algunas con camisetas negras y otras con ropa casual, sugiriendo un ambiente de evento o backstage.",
+    "tags" : ["IShowSpeed", "red shirt", "SPEED", "number 7", "backstage", "event", "2021", "ARMED"],
+    "categories" : ["estiloVida", "lifeStyle", "eventos"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 },
 {
     "id" : 20,
     "url" : "https://github.com/DONCHUY846/ishowspeedAPI/blob/main/images/20.jpeg?raw=true",
-    "title" : "IShowSpeed",
-    "description" : "IShowSpeed is a popular YouTuber and streamer known for his entertaining content and engaging personality."
+    "title" : "IShowSpeed en el estadio del Manchester United con camiseta del equipo",
+    "description" : "La imagen muestra a iShowSpeed sentado en un asiento rojo de un estadio, vistiendo la camiseta roja del Manchester United con el logo de \"TeamViewer\". Lleva shorts verdes y una pulsera azul en la muñeca. El entorno incluye asientos vacíos con el escudo del Manchester United, sugeriendo que está en las gradas de un partido o evento relacionado con el club.",
+    "tags" : ["IShowSpeed", "Manchester United", "stadium", "red shirt", "TeamViewer", "football", "soccer"],
+    "categories" : ["estiloVida", "lifeStyle", "deportes"],
+    "type" : "image",
+    "format" : "jpeg",
+    "created_at" : "2025-07-19",
+    "updated_at" : "2025-07-28"
 }
 ]
 
